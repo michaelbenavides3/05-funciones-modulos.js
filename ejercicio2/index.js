@@ -1,0 +1,1 @@
+export {calcularNota} from './calculadora.js';
