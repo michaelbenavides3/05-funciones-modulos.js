@@ -1,14 +1,14 @@
 {
   "name": "ejercicio1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ejercicio de funciones básicas en Node",
   "main": "index.js",
-  
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "author": "Michael",
+  "license": "ISC"
 }
+
